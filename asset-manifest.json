@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ar-animations/static/css/main.40d10f10.chunk.css",
+    "main.js": "/ar-animations/static/js/main.fecc665a.chunk.js",
+    "main.js.map": "/ar-animations/static/js/main.fecc665a.chunk.js.map",
+    "runtime-main.js": "/ar-animations/static/js/runtime-main.db782950.js",
+    "runtime-main.js.map": "/ar-animations/static/js/runtime-main.db782950.js.map",
+    "static/js/2.7aadb8e4.chunk.js": "/ar-animations/static/js/2.7aadb8e4.chunk.js",
+    "static/js/2.7aadb8e4.chunk.js.map": "/ar-animations/static/js/2.7aadb8e4.chunk.js.map",
+    "index.html": "/ar-animations/index.html",
+    "precache-manifest.90d68079c302db27aa218829a9d15a3c.js": "/ar-animations/precache-manifest.90d68079c302db27aa218829a9d15a3c.js",
+    "service-worker.js": "/ar-animations/service-worker.js",
+    "static/css/main.40d10f10.chunk.css.map": "/ar-animations/static/css/main.40d10f10.chunk.css.map",
+    "static/js/2.7aadb8e4.chunk.js.LICENSE.txt": "/ar-animations/static/js/2.7aadb8e4.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/ar-animations/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/ar-animations/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/ar-animations/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/ar-animations/static/media/lumin-min.379bad94.png",
+    "static/media/yourspace-min.png": "/ar-animations/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db782950.js",
+    "static/js/2.7aadb8e4.chunk.js",
+    "static/css/main.40d10f10.chunk.css",
+    "static/js/main.fecc665a.chunk.js"
+  ]
+}
